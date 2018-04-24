@@ -1,5 +1,4 @@
 # DistributedFileSystem
-## Neha Bedi and Manik Handa
 ### Instructions/Notes
 #### Download the project and using command line navigate to the folder of the project containing the 'build.gradle' file. Run the below command 
 ```
